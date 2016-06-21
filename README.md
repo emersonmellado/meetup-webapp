@@ -17,14 +17,15 @@ Vamos lá.
 
     1. Acesse o diretório da apresentação `$ cd apresentacao`
     2. Rode `$ npm install`
-    3. Rode `$ bower install`
-    4. Rode `$ grunt serve`
-    5. Pegue um café e estude :D
+    3. Rode `$ npm install -g bower`
+    4. Rode `$ bower install`
+    5. Rode `$ grunt serve`
+    6. Pegue um café e estude :D
 
-## Para os preguiçocos 
+## Para os preguiçocos
 
 Segue link do github.io já compilado (http://emersonmellado.github.io/meetup-webapp)
-(Sem graça e com conteúdo estático :P) 
+(Sem graça e com conteúdo estático :P)
     
 
 ## Any problems?
